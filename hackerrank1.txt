@@ -1,0 +1,8 @@
+Hackerrank details
+
+
+
+Category--- points---Rank
+
+Java--203--22824
+Algorithms--1--641542
